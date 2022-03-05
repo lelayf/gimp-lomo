@@ -11,6 +11,7 @@ A Script-Fu plugin for the GNU Image Manipulation Program, to apply a Lomo LC-A 
 - Open an image and Select All (Cmd/Ctrl-A)
 - Then `Script-Fu > Utils > Apply Lomo LC-A Effect`
 - The defaults are usually pretty good. Feel free to play with the input parameters in the dialog box to adjust saturation, contrast and vignetting.
+- `File > Export` to flatten and save back to JPEG (otherwise GIMP would save in its very own XCF format, which keeps track of individual layers, palettes and whatnot)
 
 
 Like it? Spread the good word: please do not hesitate to point to this repository if you post on social media!
