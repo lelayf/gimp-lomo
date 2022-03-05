@@ -14,7 +14,7 @@ A Script-Fu plugin for the GNU Image Manipulation Program, to apply a Lomo LC-A 
 - `File > Export` to flatten and save back to JPEG (otherwise GIMP would save in its very own XCF format, which keeps track of individual layers, palettes and whatnot)
 
 
-Like it? Spread the good word: please do not hesitate to point to this repository if you post on social media!
+Like it? Use hash tag __#lomogimp__ in your social media posts!
 
 
 Default settings on an old classic [I took in 2005 in France](https://www.flickr.com/photos/kmf/4916250/in/photolist-rcqW): two chairs of the [Société Nationale des Sauveteurs en Mer](https://www.snsm.org/)
