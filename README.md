@@ -20,3 +20,4 @@ Default settings on an old classic [I took in 2005 in France](https://www.flickr
 
 
 ![](4916250_1664e6e0ae_o.jpg)
+Copyright François Le Lay
